@@ -69,8 +69,6 @@ export const Footer: React.FC = () => {
                 >
                   About Us
                 </a>
-              </li>
-           
               <li>
                 <a
                   href="/contact.html"
