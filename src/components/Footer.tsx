@@ -63,7 +63,8 @@ export const Footer: React.FC = () => {
             <ul className="space-y-2.5 text-xs font-medium">
               <li>
                 <a
-                  href="/about.html"
+                  href="/about.html
+"
                   className="text-neutral-600 hover:text-black transition-colors cursor-pointer"
                 >
                   About Us
