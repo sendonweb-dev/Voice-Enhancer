@@ -30,7 +30,7 @@ export const Footer: React.FC = () => {
             <ul className="space-y-2.5 text-xs font-medium">
               <li>
                 <a
-                  href="privacy-policy.html"
+                  href="/privacy-policy.html"
                   className="text-neutral-600 hover:text-black transition-colors cursor-pointer"
                 >
                   Privacy Policy
@@ -38,7 +38,7 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="terms.html"
+                  href="/terms.html"
                   className="text-neutral-600 hover:text-black transition-colors cursor-pointer"
                 >
                   Terms of Use
@@ -46,7 +46,7 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="disclaimer.html"
+                  href="/disclaimer.html"
                   className="text-neutral-600 hover:text-black transition-colors cursor-pointer"
                 >
                   Disclaimer
@@ -63,7 +63,7 @@ export const Footer: React.FC = () => {
             <ul className="space-y-2.5 text-xs font-medium">
               <li>
                 <a
-                  href="about.html"
+                  href="/about.html"
                   className="text-neutral-600 hover:text-black transition-colors cursor-pointer"
                 >
                   About Us
@@ -87,7 +87,7 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="contact.html"
+                  href="/contact.html"
                   className="text-neutral-600 hover:text-black transition-colors cursor-pointer"
                 >
                   Contact Us
