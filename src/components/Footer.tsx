@@ -70,21 +70,6 @@ export const Footer: React.FC = () => {
                   About Us
                 </a>
               </li>
-              <li>
-                <a
-                  href="blog.html"
-                  className="text-neutral-600 hover:text-black transition-colors cursor-pointer"
-                >
-                  Blog & Guides
-                </a>
-              </li>
-              <li>
-                <a
-                  href="faq.html"
-                  className="text-neutral-600 hover:text-black transition-colors cursor-pointer"
-                >
-                  FAQ
-                </a>
               </li>
               <li>
                 <a
