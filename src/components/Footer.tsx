@@ -41,7 +41,7 @@ export const Footer: React.FC = () => {
                   href="/terms.html"
                   className="text-neutral-600 hover:text-black transition-colors cursor-pointer"
                 >
-                  Terms of Use
+                  Terms of Use 
                 </a>
               </li>
               <li>
