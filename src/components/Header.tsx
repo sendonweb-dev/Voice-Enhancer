@@ -14,10 +14,8 @@ export const Header: React.FC = () => {
   }, []);
 
   const navLinks = [
-    { label: 'About Us', href: 'about.html' },
-    { label: 'Blog & Guides', href: 'blog.html' },
-    { label: 'FAQ', href: 'faq.html' },
-    { label: 'Contact', href: 'contact.html' },
+    { label: 'About Us', href: '/about.html' },
+    { label: 'Contact', href: '/contact.html' },
   ];
 
   const scrollToWorkstation = (e: React.MouseEvent) => {
