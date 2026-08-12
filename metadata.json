@@ -1,0 +1,6 @@
+{
+  "name": "Voice Enhancer Studio",
+  "description": "100% Free Studio-Grade Voice & Audio Enhancer with client-side Web Audio API processing, EQ, compression, silence remover, and WAV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
